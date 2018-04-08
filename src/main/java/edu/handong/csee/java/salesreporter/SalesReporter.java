@@ -2,7 +2,7 @@ package edu.handong.csee.java.salesreporter;
 //We use the Scanner utility to get the user's input data
 import java.util.Scanner;
 /**
- * The SalesReporter class is used to generate a sales report
+ * The SalesReporter class is used to generate a sales report. 
  * The class is able get the users data, compute the data, and display the computed data
  */
 public class SalesReporter {
